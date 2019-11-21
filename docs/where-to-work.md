@@ -59,6 +59,8 @@ Most major cities have a variety of co-working spaces to choose from. Decide whe
 
 - [Deskpass](https://www.deskpass.com/): Deskpass provides affordable, flexible access to hundreds of wonderful, diverse coworking spaces and conference rooms to work, learn and meet.
 
+- [TheRiveter](https://theriveter.co): Build by women, for everyone. The Riveter offers best-in-class events and programming, flexible memberships, and collaborative workspaces.
+
 - [WeWork](https://www.wework.com/): Whether you’re an established enterprise or a growing startup, discover spaces that inspire your most impactful work.
 
 - [The Wing](https://www.the-wing.com/): Welcome to The Wing, a network of work and community spaces designed with you in mind.
